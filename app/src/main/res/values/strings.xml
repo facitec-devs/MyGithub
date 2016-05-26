@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My GitHub</string>
+    <string name="end_point" translatable="false">https://api.github.com</string>
+</resources>
